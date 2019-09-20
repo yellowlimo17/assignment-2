@@ -3,6 +3,7 @@ let zero = document.querySelector("#part00");
 let hello = document.createTextNode("Hello world!");
 // zero.appendChild(hello);
 /*--- begin answer part00 ---*/
+let myname = "Austin DeBoer";
 /*--- end answer part00 ---*/
 if (typeof myname !== "undefined") {
   let textBefore = document.createTextNode("My name is ");
