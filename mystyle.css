@@ -1,0 +1,15 @@
+.domestic{
+    color: green;
+}
+
+.international{
+    color: blue;
+}
+
+.heavy{
+    color: hsl(100, 100, 25);
+}
+
+.light{
+    color: hsl(100, 100, 75);
+}
