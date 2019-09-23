@@ -15,6 +15,9 @@
 }
 
 table .heavy{
- background-color: green;   
+ background-color: hsl(145, 40%, 15%); 
 }
 
+table .light{
+ background-color: hsl(145, 40%, 30%); 
+}
