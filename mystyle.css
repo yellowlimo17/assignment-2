@@ -18,6 +18,3 @@ table {
     background-color: green;
 }
 
-tr:.light{
-    background-color: hsl(100, 40%, 30%);
-}
