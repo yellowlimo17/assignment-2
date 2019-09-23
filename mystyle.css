@@ -7,9 +7,9 @@
 }
 
 .heavy{
-    color: hsl(100, 100, 25);
+    color: hsl(100, 40%, 25%);
 }
 
 .light{
-    color: hsl(100, 100, 75);
+    color: hsl(145, 40%, 44%);
 }
