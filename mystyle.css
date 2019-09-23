@@ -15,11 +15,9 @@
 }
 
 tr .heavy{
-    color: hsl(100, 40%, 25%);
     background-color: hsl(100, 40%, 15%);
 }
 
 tr .light{
-    color: hsl(145, 40%, 44%);
     background-color: hsl(100, 40%, 30%);
 }
