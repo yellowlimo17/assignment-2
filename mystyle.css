@@ -14,10 +14,10 @@
     color: hsl(145, 40%, 44%);
 }
 
-tr .heavy{
+tr:.heavy{
     background-color: hsl(100, 40%, 15%);
 }
 
-tr .light{
+tr:.light{
     background-color: hsl(100, 40%, 30%);
 }
