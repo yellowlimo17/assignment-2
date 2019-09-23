@@ -102,6 +102,13 @@ chInt.classList.add("international");
 
 par2.appendChild(chDom);
 par2.appendChild(chInt);
+
+let pic = document.createElement("img");
+pic.src = "https://www.govisitcostarica.com/images/photos/full-jaco-beach-complete-view.jpg";
+par2.append(pic);
+let hyper = document.createElement("a");
+hyper.href = "https://www.govisitcostarica.com";
+pic.append(hyper);
 /*--- end answer part02 ---*/
 
 // Code for part 3
